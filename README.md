@@ -5,9 +5,9 @@
 **Semestre:** Tardor 2026
 
 ## Integrants
-
-- Judit Bonachi
+        
 - Pau Ramos
+- Judit Bonachí
 
 ## 1. Descripció
 
