@@ -24,9 +24,9 @@ PRACT1-WebScraping/
 ├── dataset/
 │   └── output.csv        # Dataset generat (CSV, UTF-8, separador ;)
 ├── source/
-│   ├── scraper.py        # Classe UOCScraper: lògica de recollida i extracció
-│   └── main.py           # Punt d'entrada que crida UOCScraper
-├── requirements.txt      # Dependències i versions (pip freeze)
+│   ├── scraper.py        # Classe 'UOCScraper': és tota la lògica de recollida i d'extracció
+│   └── main.py           # Punt d'entrada que crida i executa el UOCScraper
+├── requirements.txt      # LLibreries,dependències i versions utilitzades (pip freeze)
 ├── .gitignore
 └── README.md
 ```
